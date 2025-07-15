@@ -51,7 +51,7 @@ const Profile = () => {
         "Implemented real-time systems with WebSocket",
         "Deployed on VPS using Docker and Nginx"
       ],
-      demoLink: "https://school-health-nine.vercel.app",
+      demoLink: "https://schoolhealth.vercel.app",
       bgColor: "from-pink-50 to-rose-50"
     },
     {
